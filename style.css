@@ -103,7 +103,7 @@ header .text h5 {
     margin-top: 30px;
     margin-bottom: 30px;
 }
-button {
+header a {
     padding: 8px 20px;
     text-transform: uppercase;
     color: var(--main-color);
